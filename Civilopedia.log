@@ -1,28 +1,7 @@
-[OPTIONS]
-Title=Civilopedia
-Compiled file=Civilopedia.chm
-Error log file=
-Default topic=index.htm
-Language=0x0804 中文(简体，中国)
-Full text search stop list file=
-Contents file=Contents.hhc
-Index file=Index.hhk
-Binary TOC=No
-Auto index=Yes
-Binary Index=No
-Create CHI file=No
-Full-text search=Yes
-Display compile progress=Yes
-Display compile notes=Yes
-Default window=civ
-Enhanced decompilation=Yes
-Flat=No
-Compatibility=1.1 or later
+Microsoft HTML Help Compiler 4.74.8702
 
-[WINDOWS]
-civ="","Contents.hhc","Index.hhk","index.htm","index.htm",,,,,0x00063520,264,0x0000004E,[25,25,983,627],,,,0,0,0,0
+Compiling e:\CHM\Civilopedia\Civilopedia.chm
 
-[FILES]
 images\b.png
 images\background.png
 BELIEF_ANCESTOR_WORSHIP.htm
@@ -4839,4 +4818,16 @@ UNIT_ZULU_IMPI.htm
 images\large\UNIT_ZULU_IMPI.png
 images\small\UNIT_ZULU_IMPI.png
 WONDER_HOME.htm
+index.htm
+Contents.hhc
+Index.hhk
 
+Compile time: 3 minutes, 20 seconds
+3,129	Topics
+805,048	Local links
+10,938	Internet links
+0	Graphics
+
+
+Created e:\CHM\Civilopedia\Civilopedia.chm, 89,142,655 bytes
+Compression decreased file by 226,728,732 bytes.
