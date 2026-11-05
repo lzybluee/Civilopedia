@@ -22,7 +22,7 @@
           <param name="Local" value="CONCEPT_RESOURCES_CITY_REQUESTS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="We Love the King Day">
+          <param name="Name" value="&quot;We Love the King Day&quot;">
           <param name="Local" value="EN_CONCEPT_RESOURCES_CITY_REQUESTS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -30,7 +30,7 @@
           <param name="Local" value="CONCEPT_COMBAT_FORTIFY_UNTIL_HEALED.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="The Fortify Until Healed Button">
+          <param name="Name" value="The &quot;Fortify Until Healed&quot; Button">
           <param name="Local" value="EN_CONCEPT_COMBAT_FORTIFY_UNTIL_HEALED.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -5174,7 +5174,7 @@
           <param name="Local" value="CONCEPT_COMBAT_ALERT.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="The Alert Order">
+          <param name="Name" value="The &quot;Alert&quot; Order">
           <param name="Local" value="EN_CONCEPT_COMBAT_ALERT.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -8902,7 +8902,7 @@
           <param name="Local" value="CONCEPT_GOLD_TRADE_MISSION.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Perform a Trade Mission">
+          <param name="Name" value="Perform a &quot;Trade Mission&quot;">
           <param name="Local" value="EN_CONCEPT_GOLD_TRADE_MISSION.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">

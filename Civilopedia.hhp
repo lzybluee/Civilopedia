@@ -20,7 +20,7 @@ Flat=No
 Compatibility=1.1 or later
 
 [WINDOWS]
-civ="Civilopedia","Contents.hhc","Index.hhk","index.htm","index.htm",,,,,0x00063520,0,0x0000184E,[25,25,800,600],,,,0,0,0,0
+civ="Civilopedia","Contents.hhc","Index.hhk","index.htm","index.htm",,,,,0x00063520,,0x0000184E,[25,25,800,600],,,,0,0,0,0
 
 [FILES]
 images\b.png
