@@ -335,17 +335,12 @@ function trimWhitespace(str) {
 	return str;
 }
 
-function cboLanguage_SelectedIndexChanged() {
-	var objItem = document.getElementById("cboLanguage");
-	var objSelectedItem = objItem.options[objItem.selectedIndex];
-	if (objItem.selectedIndex == 0)
-		return;
-
-	var strLanguage = objSelectedItem.value;
-	var strTarget = (strLanguage != "") ? "EN" : "ZH";
+// Go to the same page in the other language
+function switchLanguage() {
 	var info = getLangInfo();
-	if (!info || info.lang == strTarget)
+	if (!info)
 		return;
+	var strTarget = (info.lang == "ZH") ? "EN" : "ZH";
 	v_chinese = (strTarget == "ZH");
 	window.location.href = info.base + strTarget + "/" + info.rest;
 }

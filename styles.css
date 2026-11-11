@@ -33,23 +33,23 @@ h2
 	font-weight: normal;
 }
 
-select
+a.langswitch
 {
-	background: url("images/selectbackground.png");
-	background-color: #041313;
-	border: 0px;
+	float: left;
+	margin-top: 20px;
 	width: 100px;
 	height: 16px;
+	background: url("images/selectbackground.png");
+	background-color: #041313;
 	color: #ffffff;
-	vertical-align: center;
 	font-size: 11px;
 	line-height: 16px;
+	text-align: center;
+	text-decoration: none;
 }
-select option
+a.langswitch:hover
 {
-	background: url("images/selectbackground.png");
-	height: 16px;
-	text-indent: 5px;
+	color: aqua;
 }
 
 /* Box */
