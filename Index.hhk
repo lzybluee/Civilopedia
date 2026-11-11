@@ -2578,6 +2578,22 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_GOLD_TRADE_ROUTES_BLOCKADE.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="直升机伏击一级">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Helicopter Ambush I">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="直升机伏击二级">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Helicopter Ambush II">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="伏击二级">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_AMBUSH_2.htm">
         </OBJECT>

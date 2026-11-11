@@ -1273,13 +1273,28 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="美学政策">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_AESTHETICS.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="商业政策">
                   <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_COMMERCE.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="探索政策">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_EXPLORATION.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="理性政策">
                   <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_RATIONALISM.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="意识形态">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_IDEOLOGY.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -1300,21 +1315,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="文化胜利">
                   <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_VICTORY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="美学政策">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_AESTHETICS.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="探索政策">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_EXPLORATION.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="意识形态">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_IDEOLOGY.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
             </UL>
@@ -1533,6 +1533,16 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="文学家">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_WRITER.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="音乐家">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MUSICIAN.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="工程师">
                   <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ENGINEER.htm">
                   <param name="ImageNumber" value="11">
@@ -1598,8 +1608,43 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="特殊能力：杰作">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ART_CREATEGW.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="特殊能力：黄金时代">
                   <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CULTURE_BOMB.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="大文学家">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_WRITER.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="特殊能力：杰作">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_WRITER_CREATEGW.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="特殊能力：政治论著">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TREATISE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="大音乐家">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MUSICIAN.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="特殊能力：杰作">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MUSICIAN_CREATEGW.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="特殊能力：巡回演出">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CONCERT_TOUR.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -1663,51 +1708,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="文学家">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_WRITER.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="音乐家">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MUSICIAN.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="特殊能力：杰作">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ART_CREATEGW.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="大文学家">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_WRITER.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="特殊能力：杰作">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_WRITER_CREATEGW.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="特殊能力：政治论著">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TREATISE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="大音乐家">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MUSICIAN.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="特殊能力：杰作">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MUSICIAN_CREATEGW.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="特殊能力：巡回演出">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CONCERT_TOUR.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="海军统帅">
                   <param name="Local" value="ZH\CONCEPT\CONCEPT_GREAT_ADMIRAL.htm">
                   <param name="ImageNumber" value="11">
@@ -1763,8 +1763,18 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="商业型">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_CITY_STATE_MERCANTILE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="军事型">
                   <param name="Local" value="ZH\CONCEPT\CONCEPT_CITY_STATE_TYPES_MILITARISTIC.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="宗教型">
+                  <param name="Local" value="ZH\CONCEPT\CONCEPT_CITY_STATE_RELIGIOUS.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -1840,16 +1850,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="城邦和外交胜利">
                   <param name="Local" value="ZH\CONCEPT\CONCEPT_CITY_STATE_DIPLOMACY_VICTORY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="宗教型">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_CITY_STATE_RELIGIOUS.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="商业型">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_CITY_STATE_MERCANTILE.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -3357,6 +3357,21 @@
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="长弓手">
+                  <param name="Local" value="ZH\UNIT\UNIT_ENGLISH_LONGBOWMAN.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="长剑士">
+                  <param name="Local" value="ZH\UNIT\UNIT_LONGSWORDSMAN.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="长枪兵">
+                  <param name="Local" value="ZH\UNIT\UNIT_PIKEMAN.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="火厢车">
                   <param name="Local" value="ZH\UNIT\UNIT_KOREAN_HWACHA.htm">
                   <param name="ImageNumber" value="11">
@@ -3414,21 +3429,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="日本武士">
                   <param name="Local" value="ZH\UNIT\UNIT_JAPANESE_SAMURAI.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="长弓手">
-                  <param name="Local" value="ZH\UNIT\UNIT_ENGLISH_LONGBOWMAN.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="长剑士">
-                  <param name="Local" value="ZH\UNIT\UNIT_LONGSWORDSMAN.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="长枪兵">
-                  <param name="Local" value="ZH\UNIT\UNIT_PIKEMAN.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -3844,6 +3844,11 @@
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="操练一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_DRILL_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="操练二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_DRILL_2.htm">
                   <param name="ImageNumber" value="11">
@@ -3854,8 +3859,8 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="操练一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_DRILL_1.htm">
+                  <param name="Name" value="冲击一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SHOCK_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -3869,8 +3874,8 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="冲击一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SHOCK_1.htm">
+                  <param name="Name" value="伏击一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_AMBUSH_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -3879,23 +3884,18 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="伏击一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_AMBUSH_1.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="攻坚能力">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_SIEGE.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="列阵二级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_FORMATION_2.htm">
+                  <param name="Name" value="列阵一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_FORMATION_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="列阵一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_FORMATION_1.htm">
+                  <param name="Name" value="列阵二级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_FORMATION_2.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -3914,13 +3914,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="隐蔽二级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_COVER_2.htm">
+                  <param name="Name" value="隐蔽一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_COVER_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="隐蔽一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_COVER_1.htm">
+                  <param name="Name" value="隐蔽二级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_COVER_2.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
             </UL>
@@ -3928,6 +3928,11 @@
               <param name="Name" value="远程晋升">
             </OBJECT>
             <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="弹幕一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_BARRAGE_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="弹幕二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_BARRAGE_2.htm">
@@ -3939,8 +3944,8 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="弹幕一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_BARRAGE_1.htm">
+                  <param name="Name" value="轰炸一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_BOMBARDMENT_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -3954,11 +3959,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="轰炸一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_BOMBARDMENT_1.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="后勤补给">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_LOGISTICS.htm">
                   <param name="ImageNumber" value="11">
@@ -3969,6 +3969,11 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="精准一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ACCURACY_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="精准二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_ACCURACY_2.htm">
                   <param name="ImageNumber" value="11">
@@ -3976,11 +3981,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="精准三级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_ACCURACY_3.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="精准一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ACCURACY_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -3999,6 +3999,11 @@
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="定位一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_TARGETING_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="定位二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_TARGETING_2.htm">
                   <param name="ImageNumber" value="11">
@@ -4009,8 +4014,8 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="定位一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_TARGETING_1.htm">
+                  <param name="Name" value="海掠一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_COASTAL_RAIDER_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4024,13 +4029,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="海掠一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_COASTAL_RAIDER_1.htm">
+                  <param name="Name" value="海上补给">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SUPPLY.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="海上补给">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SUPPLY.htm">
+                  <param name="Name" value="接舷一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_BOARDING_PARTY_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4044,11 +4049,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="接舷一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_BOARDING_PARTY_1.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="两栖作战">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_AMPHIBIOUS.htm">
                   <param name="ImageNumber" value="11">
@@ -4058,6 +4058,11 @@
               <param name="Name" value="医疗晋升">
             </OBJECT>
             <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="长途行军">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_MARCH.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="空中维修">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_REPAIR.htm">
@@ -4069,6 +4074,11 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="生存一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SURVIVALISM_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="生存二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_SURVIVALISM_2.htm">
                   <param name="ImageNumber" value="11">
@@ -4076,11 +4086,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="生存三级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_SURVIVALISM_3.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="生存一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SURVIVALISM_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4098,11 +4103,6 @@
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_MEDIC.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="长途行军">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_MARCH.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="侦查晋升">
@@ -4111,6 +4111,11 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="警戒能力">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_SENTRY.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="侦察一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SCOUTING_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4123,16 +4128,16 @@
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_SCOUTING_3.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="侦察一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SCOUTING_1.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
               <param name="Name" value="空军晋升">
             </OBJECT>
             <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="缠斗一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_DOGFIGHTING_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="缠斗二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_DOGFIGHTING_2.htm">
@@ -4144,8 +4149,8 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="缠斗一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_DOGFIGHTING_1.htm">
+                  <param name="Name" value="定位一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_TARGETING_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4154,8 +4159,8 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="定位一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_TARGETING_1.htm">
+                  <param name="Name" value="伏击一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_AMBUSH_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4164,8 +4169,18 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="伏击一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_AMBUSH_1.htm">
+                  <param name="Name" value="直升机伏击一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="直升机伏击二级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="攻坚一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_SIEGE_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4176,11 +4191,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="攻坚三级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_SIEGE_3.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="攻坚一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_SIEGE_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4199,13 +4209,18 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="机动一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_MOBILITY_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="机动二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_MOBILITY_2.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="机动一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_MOBILITY_1.htm">
+                  <param name="Name" value="拦截一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4216,11 +4231,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="拦截三级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_3.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="拦截一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4354,6 +4364,16 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="对城市加成(33)">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="对城市加成(50)">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HEAVY_PAYLOAD.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="对城市加成(200)">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_CITY_SIEGE.htm">
                   <param name="ImageNumber" value="11">
@@ -4366,16 +4386,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="对城市加成(300)">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_CITY_ASSAULT.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="对城市加成(33)">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="对城市加成(50)">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HEAVY_PAYLOAD.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4399,11 +4409,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="对骑乘单位加成(100)">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_MOUNTED_II.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="对骑乘单位加成(33)">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_MOUNTED_PENALTY.htm">
                   <param name="ImageNumber" value="11">
@@ -4414,13 +4419,18 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="对潜艇加成(100)">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
+                  <param name="Name" value="对骑乘单位加成(100)">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_MOUNTED_II.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="对潜艇加成(33)">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="对潜艇加成(100)">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4469,6 +4479,11 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="飞行甲板一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_FLIGHT_DECK_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="飞行甲板二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_FLIGHT_DECK_2.htm">
                   <param name="ImageNumber" value="11">
@@ -4476,11 +4491,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="飞行甲板三级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_FLIGHT_DECK_3.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="飞行甲板一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_FLIGHT_DECK_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4514,13 +4524,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="规避能力(100)">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_EVASION_II.htm">
+                  <param name="Name" value="规避能力(50)">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_EVASION_I.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="规避能力(50)">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_EVASION_I.htm">
+                  <param name="Name" value="规避能力(100)">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_EVASION_II.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4629,11 +4639,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="拦截能力(100)">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_IV.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="拦截能力(20)">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_I.htm">
                   <param name="ImageNumber" value="11">
@@ -4649,6 +4654,16 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="拦截能力(100)">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_IV.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="狼群一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_WOLFPACK_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="狼群二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_WOLFPACK_2.htm">
                   <param name="ImageNumber" value="11">
@@ -4656,11 +4671,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="狼群三级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_WOLFPACK_3.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="狼群一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_WOLFPACK_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4789,13 +4799,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="统帅二级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SPAWN_GENERALS_II.htm">
+                  <param name="Name" value="统帅一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SPAWN_GENERALS_I.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="统帅一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SPAWN_GENERALS_I.htm">
+                  <param name="Name" value="统帅二级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_SPAWN_GENERALS_II.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4919,6 +4929,11 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="装甲一级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ARMOR_PLATING_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="装甲二级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_ARMOR_PLATING_2.htm">
                   <param name="ImageNumber" value="11">
@@ -4926,11 +4941,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="装甲三级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_ARMOR_PLATING_3.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="装甲一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ARMOR_PLATING_1.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
             </UL>
@@ -5141,6 +5151,11 @@
             </OBJECT>
             <UL>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="长屋">
+                  <param name="Local" value="ZH\BUILDING\BUILDING_LONGHOUSE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="城堡">
                   <param name="Local" value="ZH\BUILDING\BUILDING_CASTLE.htm">
                   <param name="ImageNumber" value="11">
@@ -5193,11 +5208,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="莫卧儿城塞">
                   <param name="Local" value="ZH\BUILDING\BUILDING_MUGHAL_FORT.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="长屋">
-                  <param name="Local" value="ZH\BUILDING\BUILDING_LONGHOUSE.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
             </UL>
@@ -5438,6 +5448,11 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="长城">
+                  <param name="Local" value="ZH\WONDER\BUILDING_GREAT_WALL.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="大报恩寺塔">
                   <param name="Local" value="ZH\WONDER\BUILDING_PORCELAIN_TOWER.htm">
                   <param name="ImageNumber" value="11">
@@ -5615,11 +5630,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="耶稣巨像">
                   <param name="Local" value="ZH\WONDER\BUILDING_CRISTO_REDENTOR.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="长城">
-                  <param name="Local" value="ZH\WONDER\BUILDING_GREAT_WALL.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -6857,6 +6867,126 @@
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="文化型城邦">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="埃里温">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_YEREVAN.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="波哥大">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BOGOTA.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="布加勒斯特">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BUCHAREST.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="布拉迪斯拉发">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BRATISLAVA.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="布拉格">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_PRAGUE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="布鲁塞尔">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BRUSSELS.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="布宜诺斯艾利斯">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BUENOS_AIRES.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="佛罗伦萨">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_FLORENCE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="基辅">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_KIEV.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="吉隆坡">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_KUALA_LUMPUR.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="喀布尔">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_KABUL.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="克孜勒">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_KYZYL.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="米兰">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_MILAN.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="摩纳哥">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_MONACO.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="军事型城邦">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="阿拉木图">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_ALMATY.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="贝尔格莱德">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BELGRADE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="布达佩斯">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BUDAPEST.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="河内">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_HANOI.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="姆班扎刚果">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_MBANZA_KONGO.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="索非亚">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_SOFIA.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="瓦莱塔">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_VALLETTA.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="西顿">
+                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_SIDON.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
               <param name="Name" value="航海型城邦">
             </OBJECT>
             <UL>
@@ -6932,51 +7062,6 @@
                 </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="军事型城邦">
-            </OBJECT>
-            <UL>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="阿拉木图">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_ALMATY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="贝尔格莱德">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BELGRADE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="布达佩斯">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BUDAPEST.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="河内">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_HANOI.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="姆班扎刚果">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_MBANZA_KONGO.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="索非亚">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_SOFIA.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="瓦莱塔">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_VALLETTA.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="西顿">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_SIDON.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-            </UL>
-            <LI><OBJECT type="text/sitemap">
               <param name="Name" value="商业型城邦">
             </OBJECT>
             <UL>
@@ -7048,81 +7133,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="新加坡">
                   <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_SINGAPORE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-            </UL>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="文化型城邦">
-            </OBJECT>
-            <UL>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="埃里温">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_YEREVAN.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="波哥大">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BOGOTA.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="布加勒斯特">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BUCHAREST.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="布拉迪斯拉发">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BRATISLAVA.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="布拉格">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_PRAGUE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="布鲁塞尔">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BRUSSELS.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="布宜诺斯艾利斯">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_BUENOS_AIRES.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="佛罗伦萨">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_FLORENCE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="基辅">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_KIEV.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="吉隆坡">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_KUALA_LUMPUR.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="喀布尔">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_KABUL.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="克孜勒">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_KYZYL.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="米兰">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_MILAN.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="摩纳哥">
-                  <param name="Local" value="ZH\CITY_STATE\MINOR_CIV_MONACO.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
             </UL>
@@ -12464,6 +12474,16 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Helicopter Ambush I">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Helicopter Ambush II">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Air Targetting I">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_AIR_TARGETING_1.htm">
                   <param name="ImageNumber" value="11">
@@ -12684,6 +12704,16 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Bonus vs Cities (33)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Bonus vs Cities (50)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_HEAVY_PAYLOAD.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Bonus vs Cities (200)">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_CITY_SIEGE.htm">
                   <param name="ImageNumber" value="11">
@@ -12699,16 +12729,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Bonus vs Cities (33)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Bonus vs Cities (50)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_HEAVY_PAYLOAD.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Bonus vs Fighters (33)">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_FIGHTER.htm">
                   <param name="ImageNumber" value="11">
@@ -12719,13 +12739,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Bonus vs Mounted (100)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_MOUNTED_II.htm">
+                  <param name="Name" value="Bonus vs Mounted (50)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_MOUNTED_I.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Bonus vs Mounted (50)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_MOUNTED_I.htm">
+                  <param name="Name" value="Bonus vs Mounted (100)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_MOUNTED_II.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -12734,13 +12754,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Bonus vs Submarines (100)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
+                  <param name="Name" value="Bonus vs Submarines (33)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Bonus vs Submarines (33)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
+                  <param name="Name" value="Bonus vs Submarines (100)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -12879,13 +12899,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Evasion (100)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION_II.htm">
+                  <param name="Name" value="Evasion (50)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION_I.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Evasion (50)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION_I.htm">
+                  <param name="Name" value="Evasion (100)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION_II.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -13024,11 +13044,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Interception (100)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_IV.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Interception (20)">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_I.htm">
                   <param name="ImageNumber" value="11">
@@ -13041,6 +13056,11 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Interception (50)">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_III.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Interception (100)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_IV.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
