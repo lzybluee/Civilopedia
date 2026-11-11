@@ -1573,11 +1573,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="黄金时代">
-                  <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GOLDEN_AGE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="特殊设施">
                   <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT.htm">
                   <param name="ImageNumber" value="11">
@@ -7613,165 +7608,160 @@
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="地域设施">
+              <param name="Name" value="堡垒">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_FORT.htm">
+              <param name="ImageNumber" value="11">
             </OBJECT>
-            <UL>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="堡垒">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_FORT.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="采石场">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_QUARRY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="城市废墟">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CITY_RUINS.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="道路">
-                  <param name="Local" value="ZH\IMPROVEMENT\ROUTE_ROAD.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="发掘现场">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_ARCHAEOLOGICAL_DIG.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="风景地标">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_LANDMARK.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="宫堡">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CHATEAU.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="海关">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CUSTOMS_HOUSE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="海上平台">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_OFFSHORE_PLATFORM.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="红木林场">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_BRAZILWOOD_CAMP.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="锯木场">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_LUMBERMILL.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="军事要塞">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CITADEL.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="卡斯巴哈">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_KASBAH.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="矿井">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_MINE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="猎场">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CAMP.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="蛮族营地">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_BARBARIAN_CAMP.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="贸易站">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_TRADING_POST.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="摩艾石像群">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_MOAI.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="牧场">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_PASTURE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="农场">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_FARM.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="商站">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_FEITORIA.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="梯田">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_TERRACE_FARM.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="铁路">
-                  <param name="Local" value="ZH\IMPROVEMENT\ROUTE_RAILROAD.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="圩田">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_POLDER.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="学园">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_ACADEMY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="油井">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_WELL.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="渔船">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_FISHING_BOATS.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="远古遗迹">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_GOODY_HUT.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="制造中心">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_MANUFACTORY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="种植园">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_PLANTATION.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="宗教圣地">
-                  <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_HOLY_SITE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="采石场">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_QUARRY.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="城市废墟">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CITY_RUINS.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="道路">
+              <param name="Local" value="ZH\IMPROVEMENT\ROUTE_ROAD.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="发掘现场">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_ARCHAEOLOGICAL_DIG.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="风景地标">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_LANDMARK.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="宫堡">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CHATEAU.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="海关">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CUSTOMS_HOUSE.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="海上平台">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_OFFSHORE_PLATFORM.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="红木林场">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_BRAZILWOOD_CAMP.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="锯木场">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_LUMBERMILL.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="军事要塞">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CITADEL.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="卡斯巴哈">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_KASBAH.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="矿井">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_MINE.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="猎场">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_CAMP.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="蛮族营地">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_BARBARIAN_CAMP.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="贸易站">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_TRADING_POST.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="摩艾石像群">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_MOAI.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="牧场">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_PASTURE.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="农场">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_FARM.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="商站">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_FEITORIA.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="梯田">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_TERRACE_FARM.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="铁路">
+              <param name="Local" value="ZH\IMPROVEMENT\ROUTE_RAILROAD.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="圩田">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_POLDER.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="学园">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_ACADEMY.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="油井">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_WELL.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="渔船">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_FISHING_BOATS.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="远古遗迹">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_GOODY_HUT.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="制造中心">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_MANUFACTORY.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="种植园">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_PLANTATION.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="宗教圣地">
+              <param name="Local" value="ZH\IMPROVEMENT\IMPROVEMENT_HOLY_SITE.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
         </UL>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="宗教">
@@ -9603,13 +9593,28 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Aesthetics">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_AESTHETICS.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Commerce">
                   <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_COMMERCE.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Exploration">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_EXPLORATION.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Rationalism">
                   <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_RATIONALISM.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Ideologies">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_IDEOLOGY.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -9630,21 +9635,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Cultural Victory">
                   <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_VICTORY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Aesthetics">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_AESTHETICS.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Exploration">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_EXPLORATION.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Ideologies">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_IDEOLOGY.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
             </UL>
@@ -9863,6 +9853,16 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Writer">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_WRITER.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Musician">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MUSICIAN.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Engineer">
                   <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ENGINEER.htm">
                   <param name="ImageNumber" value="11">
@@ -9903,11 +9903,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Golden Age">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GOLDEN_AGE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Special Improvement">
                   <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT.htm">
                   <param name="ImageNumber" value="11">
@@ -9933,8 +9928,43 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Special Ability: Great Work">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ART_CREATEGW.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Special Ability: Golden Age">
                   <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CULTURE_BOMB.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Great Writer">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_WRITER.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Special Ability: Great Work">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_WRITER_CREATEGW.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Special Ability: Political Treatise">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TREATISE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Great Musician">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MUSICIAN.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Special Ability: Great Work">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MUSICIAN_CREATEGW.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Special Ability: Concert Tour">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CONCERT_TOUR.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -9998,51 +10028,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Writer">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_WRITER.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Musician">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MUSICIAN.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Special Ability: Great Work">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ART_CREATEGW.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Great Writer">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_WRITER.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Special Ability: Great Work">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_WRITER_CREATEGW.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Special Ability: Political Treatise">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_TREATISE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Great Musician">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MUSICIAN.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Special Ability: Great Work">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MUSICIAN_CREATEGW.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Special Ability: Concert Tour">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_CONCERT_TOUR.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Great Admiral">
                   <param name="Local" value="EN\CONCEPT\CONCEPT_GREAT_ADMIRAL.htm">
                   <param name="ImageNumber" value="11">
@@ -10098,8 +10083,18 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Mercantile">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_CITY_STATE_MERCANTILE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Militaristic">
                   <param name="Local" value="EN\CONCEPT\CONCEPT_CITY_STATE_TYPES_MILITARISTIC.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Religious">
+                  <param name="Local" value="EN\CONCEPT\CONCEPT_CITY_STATE_RELIGIOUS.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -10175,16 +10170,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="City-States and Diplomatic Victory">
                   <param name="Local" value="EN\CONCEPT\CONCEPT_CITY_STATE_DIPLOMACY_VICTORY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Religious">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_CITY_STATE_RELIGIOUS.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Mercantile">
-                  <param name="Local" value="EN\CONCEPT\CONCEPT_CITY_STATE_MERCANTILE.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -12689,16 +12674,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Attack vs Submarines (100)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Attack vs Submarines (33)">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Bonus vs Aircraft/Helicopters (150)">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_AIR.htm">
                   <param name="ImageNumber" value="11">
@@ -12739,7 +12714,7 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Bonus vs Helicopters">
+                  <param name="Name" value="Bonus vs Helicopters (150)">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_HELICOPTER.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
@@ -12756,6 +12731,16 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Bonus vs Naval">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_NAVAL_BONUS.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Bonus vs Submarines (100)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Bonus vs Submarines (33)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -12864,7 +12849,7 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Damaged Enemy Bonus (33)">
+                  <param name="Name" value="Damaged Enemy Bonus">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_STRONGER_VS_DAMAGED.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
@@ -12964,6 +12949,11 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Free Pillage">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_FREE_PILLAGE_MOVES.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Full Moon Striker">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_MOON_STRIKER.htm">
                   <param name="ImageNumber" value="11">
@@ -12994,13 +12984,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Heal 50 Damage If Kills a Unit">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_HEAL_IF_DESTROY_ENEMY.htm">
+                  <param name="Name" value="Heals 25 Damage If Kills a Unit">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Heals 25 Damage If Kills a Unit">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY.htm">
+                  <param name="Name" value="Heals 50 Damage If Kills a Unit">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_HEAL_IF_DESTROY_ENEMY.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -13129,13 +13119,8 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="No Defensive Terrain Bonuses">
+                  <param name="Name" value="No Defensive Bonuses">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_NO_DEFENSIVE_BONUSES.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="No Movement Cost to Pillage">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_FREE_PILLAGE_MOVES.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -13159,7 +13144,7 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Penalty vs Naval (50)">
+                  <param name="Name" value="Penalty vs Naval">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_NAVAL_PENALTY.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
@@ -15267,6 +15252,51 @@
                 </OBJECT>
             </UL>
             <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Militaristic City-States">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Almaty">
+                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_ALMATY.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Belgrade">
+                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_BELGRADE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Budapest">
+                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_BUDAPEST.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Hanoi">
+                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_HANOI.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="M'banza-Kongo">
+                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_MBANZA_KONGO.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Sidon">
+                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_SIDON.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Sofia">
+                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_SOFIA.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Valletta">
+                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_VALLETTA.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
               <param name="Name" value="Maritime City-States">
             </OBJECT>
             <UL>
@@ -15413,51 +15443,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Zurich">
                   <param name="Local" value="EN\CITY_STATE\MINOR_CIV_ZURICH.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-            </UL>
-            <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Militaristic City-States">
-            </OBJECT>
-            <UL>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Almaty">
-                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_ALMATY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Belgrade">
-                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_BELGRADE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Budapest">
-                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_BUDAPEST.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Hanoi">
-                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_HANOI.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="M'banza-Kongo">
-                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_MBANZA_KONGO.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Sidon">
-                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_SIDON.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Sofia">
-                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_SOFIA.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Valletta">
-                  <param name="Local" value="EN\CITY_STATE\MINOR_CIV_VALLETTA.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
             </UL>
@@ -15943,165 +15928,160 @@
         </OBJECT>
         <UL>
             <LI><OBJECT type="text/sitemap">
-              <param name="Name" value="Improvements">
+              <param name="Name" value="Academy">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_ACADEMY.htm">
+              <param name="ImageNumber" value="11">
             </OBJECT>
-            <UL>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Academy">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_ACADEMY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Ancient Ruins">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_GOODY_HUT.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Archaeological Dig">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_ARCHAEOLOGICAL_DIG.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Brazilwood Camp">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_BRAZILWOOD_CAMP.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Camp">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CAMP.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Chateau">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CHATEAU.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Citadel">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CITADEL.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="City Ruins">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CITY_RUINS.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Customs House">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CUSTOMS_HOUSE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Encampment">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_BARBARIAN_CAMP.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Farm">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_FARM.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Feitoria">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_FEITORIA.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Fishing Boats">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_FISHING_BOATS.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Fort">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_FORT.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Holy Site">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_HOLY_SITE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Kasbah">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_KASBAH.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Landmark">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_LANDMARK.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Lumber Mill">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_LUMBERMILL.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Manufactory">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_MANUFACTORY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Mine">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_MINE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Moai">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_MOAI.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Offshore Platform">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_OFFSHORE_PLATFORM.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Oil Well">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_WELL.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Pasture">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_PASTURE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Plantation">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_PLANTATION.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Polder">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_POLDER.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Quarry">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_QUARRY.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Railroad">
-                  <param name="Local" value="EN\IMPROVEMENT\ROUTE_RAILROAD.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Road">
-                  <param name="Local" value="EN\IMPROVEMENT\ROUTE_ROAD.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Terrace Farm">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_TERRACE_FARM.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Trading Post">
-                  <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_TRADING_POST.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Ancient Ruins">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_GOODY_HUT.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Archaeological Dig">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_ARCHAEOLOGICAL_DIG.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Brazilwood Camp">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_BRAZILWOOD_CAMP.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Camp">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CAMP.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Chateau">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CHATEAU.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Citadel">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CITADEL.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="City Ruins">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CITY_RUINS.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Customs House">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_CUSTOMS_HOUSE.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Encampment">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_BARBARIAN_CAMP.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Farm">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_FARM.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Feitoria">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_FEITORIA.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Fishing Boats">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_FISHING_BOATS.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Fort">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_FORT.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Holy Site">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_HOLY_SITE.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Kasbah">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_KASBAH.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Landmark">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_LANDMARK.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Lumber Mill">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_LUMBERMILL.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Manufactory">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_MANUFACTORY.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Mine">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_MINE.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Moai">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_MOAI.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Offshore Platform">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_OFFSHORE_PLATFORM.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Oil Well">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_WELL.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Pasture">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_PASTURE.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Plantation">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_PLANTATION.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Polder">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_POLDER.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Quarry">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_QUARRY.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Railroad">
+              <param name="Local" value="EN\IMPROVEMENT\ROUTE_RAILROAD.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Road">
+              <param name="Local" value="EN\IMPROVEMENT\ROUTE_ROAD.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Terrace Farm">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_TERRACE_FARM.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Trading Post">
+              <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_TRADING_POST.htm">
+              <param name="ImageNumber" value="11">
+            </OBJECT>
         </UL>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Religion">
@@ -16234,6 +16214,11 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="God-King">
+                  <param name="Local" value="EN\RELIGION\BELIEF_GOD_KING.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Goddess of Festivals">
                   <param name="Local" value="EN\RELIGION\BELIEF_GOD_FESTIVALS.htm">
                   <param name="ImageNumber" value="11">
@@ -16251,11 +16236,6 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Goddess of the Hunt">
                   <param name="Local" value="EN\RELIGION\BELIEF_GODDESS_HUNT.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="God-King">
-                  <param name="Local" value="EN\RELIGION\BELIEF_GOD_KING.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">

@@ -2134,7 +2134,7 @@
           <param name="Local" value="ZH\PROMOTION\PROMOTION_NAVAL_PENALTY.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Penalty vs Naval (50)">
+          <param name="Name" value="Penalty vs Naval">
           <param name="Local" value="EN\PROMOTION\PROMOTION_NAVAL_PENALTY.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2182,7 +2182,7 @@
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Attack vs Submarines (100)">
+          <param name="Name" value="Bonus vs Submarines (100)">
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2190,7 +2190,7 @@
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Attack vs Submarines (33)">
+          <param name="Name" value="Bonus vs Submarines (33)">
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2198,7 +2198,7 @@
           <param name="Local" value="ZH\PROMOTION\PROMOTION_STRONGER_VS_DAMAGED.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Damaged Enemy Bonus (33)">
+          <param name="Name" value="Damaged Enemy Bonus">
           <param name="Local" value="EN\PROMOTION\PROMOTION_STRONGER_VS_DAMAGED.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2230,7 +2230,7 @@
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_HELICOPTER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Bonus vs Helicopters">
+          <param name="Name" value="Bonus vs Helicopters (150)">
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_HELICOPTER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -4106,14 +4106,6 @@
           <param name="Local" value="EN\TERRAIN\FEATURE_EL_DORADO.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="黄金时代">
-          <param name="Local" value="ZH\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GOLDEN_AGE.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Golden Age">
-          <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GOLDEN_AGE.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="恢复速率加倍">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_FASTER_HEAL.htm">
         </OBJECT>
@@ -4814,7 +4806,7 @@
           <param name="Local" value="ZH\PROMOTION\PROMOTION_FREE_PILLAGE_MOVES.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="No Movement Cost to Pillage">
+          <param name="Name" value="Free Pillage">
           <param name="Local" value="EN\PROMOTION\PROMOTION_FREE_PILLAGE_MOVES.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -9878,7 +9870,7 @@
           <param name="Local" value="ZH\PROMOTION\PROMOTION_NO_DEFENSIVE_BONUSES.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="No Defensive Terrain Bonuses">
+          <param name="Name" value="No Defensive Bonuses">
           <param name="Local" value="EN\PROMOTION\PROMOTION_NO_DEFENSIVE_BONUSES.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -10190,7 +10182,7 @@
           <param name="Local" value="ZH\PROMOTION\PROMOTION_HEAL_IF_DESTROY_ENEMY.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Heal 50 Damage If Kills a Unit">
+          <param name="Name" value="Heals 50 Damage If Kills a Unit">
           <param name="Local" value="EN\PROMOTION\PROMOTION_HEAL_IF_DESTROY_ENEMY.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
