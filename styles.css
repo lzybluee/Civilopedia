@@ -55,7 +55,12 @@ a.langswitch:hover
 /* Box */
 .t {
     background: url("images/t.png") 0 0 repeat-x #000;
-    margin-bottom: 10px;
+}
+/* gap between boxes: margin-top on the following h2, not margin-bottom on .t
+   (IE7/CHM pulls the last box's margin-bottom inside its border in floats) */
+.t + h2
+{
+    margin-top: 10px;
 }
 .b {
     background: url("images/b.png") 0 100% repeat-x
@@ -254,7 +259,7 @@ a.langswitch:hover
 /* Large block of content */
 .contentwide
 {
-	*padding-bottom: 10px; /* IE7 (CHM) drops last child margin-bottom in floats */
+	padding-bottom: 10px;
 	float: right;
 	width: 677px;
 	margin-right: 42px;
@@ -263,7 +268,7 @@ a.langswitch:hover
 /* Left side of content */
 .contentleft
 {
-	*padding-bottom: 10px; /* IE7 (CHM) drops last child margin-bottom in floats */
+	padding-bottom: 10px;
 	float: left;
 	width: 220px;
 	margin-top: 256px;
@@ -273,7 +278,7 @@ a.langswitch:hover
 /* Right side of content */
 .contentright
 {
-	*padding-bottom: 10px; /* IE7 (CHM) drops last child margin-bottom in floats */
+	padding-bottom: 10px;
 	margin-top: 15px;
 	float: right;
 	width: 439px;
