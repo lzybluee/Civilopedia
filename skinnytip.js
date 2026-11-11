@@ -37,9 +37,22 @@ var v_visible = 0;
 var v_havemouse = 0;
 var v_layer = null;
 
-var v_chinese = true;
+// Page URL layout: <root>/<ZH|EN>/[<CATEGORY>/]<PAGE>.htm
+// Returns { base: "<root>/", lang: "ZH"|"EN", rest: "[<CATEGORY>/]<PAGE>.htm" }, or null.
+function getLangInfo() {
+	var strURL = window.location.href.split('#')[0].split('?')[0];
+	var m = /^(.*[\/:])(ZH|EN)\/(.*)$/.exec(strURL);
+	return m ? { base: m[1], lang: m[2], rest: m[3] } : null;
+}
 
-if (window.location.pathname.indexOf('/en-us/') >= 0) v_chinese = false;
+var v_langinfo = getLangInfo();
+var v_chinese = !(v_langinfo && v_langinfo.lang == "EN");
+// Relative prefix from the current page back to the root (where images/ lives)
+var v_root_prefix = "";
+if (v_langinfo) {
+	var v_depth = v_langinfo.rest.split('/').length;
+	for (var k = 0; k < v_depth; k++) v_root_prefix += "../";
+}
 
 function getByClass(cls) {
 	var ret = [];
@@ -170,7 +183,7 @@ function mainMethod(blnimage) {
 
 function makeHTML(text, blnimage, title) {
 
-	var path_modifier = v_chinese ? "" : "../";
+	var path_modifier = v_root_prefix;
 
 	var container_style = ""; //'border:' + v_border + 'px solid ' + v_bordercolor + ';';
 	//container_style += 'background-color:' + v_backcolor + ';';
@@ -329,24 +342,12 @@ function cboLanguage_SelectedIndexChanged() {
 		return;
 
 	var strLanguage = objSelectedItem.value;
-	if (strLanguage != "") {
-		var strPath = window.location.pathname;
-		if (strPath.indexOf('/EN_') >= 0)
-			return;
-		var strPage = strPath.substring(strPath.lastIndexOf('/') + 1);
-		strPath = strPath.substring(0, strPath.lastIndexOf('/') + 1);
-		var strURL = strPath + "EN_" + strPage;
-		v_chinese = false;
-	} else {
-		var strPath = window.location.pathname;
-		if (strPath.indexOf('/EN_') < 0)
-			return;
-		var strPage = strPath.substring(strPath.lastIndexOf('/') + 1);
-		strPath = strPath.substring(0, strPath.lastIndexOf('/') + 1);
-		var strURL = strPath + strPage.substring(3);
-		v_chinese = true;
-	}
-	window.location.href = strURL;
+	var strTarget = (strLanguage != "") ? "EN" : "ZH";
+	var info = getLangInfo();
+	if (!info || info.lang == strTarget)
+		return;
+	v_chinese = (strTarget == "ZH");
+	window.location.href = info.base + strTarget + "/" + info.rest;
 }
 
 function togglediv(strDiv) {
