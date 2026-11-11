@@ -4169,16 +4169,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="直升机伏击一级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="直升机伏击二级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="攻坚一级">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_SIEGE_1.htm">
                   <param name="ImageNumber" value="11">
@@ -4451,6 +4441,16 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="对直升机加成">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_HELICOPTER.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="对装甲单位加成(25)">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="对装甲单位加成(25)">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -12474,16 +12474,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Helicopter Ambush I">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="Helicopter Ambush II">
-                  <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Air Targetting I">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_AIR_TARGETING_1.htm">
                   <param name="ImageNumber" value="11">
@@ -12696,6 +12686,16 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="Bonus vs Aircraft/Helicopters (150)">
                   <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_AIR.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Bonus vs Armored (25)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Bonus vs Armored (25)">
+                  <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
