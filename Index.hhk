@@ -522,7 +522,7 @@
           <param name="Local" value="EN\TECH\TECH_TRAPPING.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="不可见(潜艇)">
+          <param name="Name" value="不可见（潜艇）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_INVISIBLE_SUBMARINE.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2106,7 +2106,7 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_MOVEMENT_STACKING_LIMITS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对城市加成(33)">
+          <param name="Name" value="对城市加成（33）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2114,7 +2114,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对城市加成(50)">
+          <param name="Name" value="对城市加成（50）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_HEAVY_PAYLOAD.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2130,7 +2130,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_CITY_SIEGE.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对城市加成(250)">
+          <param name="Name" value="对城市加成（250）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_CITY_SIEGE_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2178,7 +2178,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_NAVAL_BONUS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对轰炸机/直升机加成(150)">
+          <param name="Name" value="对轰炸机/直升机加成（150）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_AIR_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2194,7 +2194,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_AIR.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对骑乘单位加成(50)">
+          <param name="Name" value="对骑乘单位加成（50）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_MOUNTED_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2202,7 +2202,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_MOUNTED_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对骑乘单位加成(100)">
+          <param name="Name" value="对骑乘单位加成（100）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_MOUNTED_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2218,7 +2218,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_MOUNTED_PENALTY.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对潜艇加成(33)">
+          <param name="Name" value="对潜艇加成（33）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2226,7 +2226,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对潜艇加成(100)">
+          <param name="Name" value="对潜艇加成（100）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2234,7 +2234,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对坦克加成(100)">
+          <param name="Name" value="对坦克加成（100）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_TANK.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2250,7 +2250,7 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_TERRAIN_RIVERS_MOVEMENT.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对战斗机加成(33)">
+          <param name="Name" value="对战斗机加成（33）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_FIGHTER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2258,7 +2258,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_FIGHTER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对直升机加成(150)">
+          <param name="Name" value="对直升机加成（150）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_HELICOPTER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2266,7 +2266,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_HELICOPTER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对装甲单位加成(25)">
+          <param name="Name" value="对装甲单位加成（25）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2274,7 +2274,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对装甲单位加成(25)">
+          <param name="Name" value="对装甲单位加成（25）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2322,7 +2322,7 @@
           <param name="Local" value="EN\BUILDING\BUILDING_KREPOST.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="额外视野(1)">
+          <param name="Name" value="额外视野（1）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_EXTRA_SIGHT_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2330,7 +2330,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_EXTRA_SIGHT_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="额外视野(2)">
+          <param name="Name" value="额外视野（2）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_EXTRA_SIGHT_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2338,7 +2338,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_EXTRA_SIGHT_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="额外视野(3)">
+          <param name="Name" value="额外视野（3）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_EXTRA_SIGHT_III.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2346,7 +2346,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_EXTRA_SIGHT_III.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="额外视野(4)">
+          <param name="Name" value="额外视野（4）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_EXTRA_SIGHT_IV.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -2354,7 +2354,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_EXTRA_SIGHT_IV.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="额外移动力(1)">
+          <param name="Name" value="额外移动力（1）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_EXTRA_MOVES_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -3098,7 +3098,7 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_COMBAT_CITY_COMBAT_STRENGTH.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="攻击城市战斗力惩罚(25)">
+          <param name="Name" value="攻击城市战斗力惩罚（25）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_SMALL_CITY_PENALTY.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -3338,7 +3338,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="规避能力(50)">
+          <param name="Name" value="规避能力（50）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_EVASION_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -3346,7 +3346,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="规避能力(100)">
+          <param name="Name" value="规避能力（100）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_EVASION_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -5026,7 +5026,7 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_TERRAIN_RIVERS_COMBAT.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="进攻加成(75)">
+          <param name="Name" value="进攻加成（75）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_SILENT_HUNTER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -5042,7 +5042,7 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_COMBAT_DECLARE_WAR_ATTACK_UNIT.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="进攻战斗加成(25)">
+          <param name="Name" value="进攻战斗加成（25）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ATTACK_BONUS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -6002,7 +6002,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_2.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="拦截能力(20)">
+          <param name="Name" value="拦截能力（20）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -6010,7 +6010,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="拦截能力(40)">
+          <param name="Name" value="拦截能力（40）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -6018,7 +6018,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="拦截能力(50)">
+          <param name="Name" value="拦截能力（50）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_III.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -6026,7 +6026,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_III.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="拦截能力(100)">
+          <param name="Name" value="拦截能力（100）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_IV.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -8002,7 +8002,7 @@
           <param name="Local" value="EN\TERRAIN\FEATURE_FOREST.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="森林/丛林战斗加成(33)">
+          <param name="Name" value="森林/丛林战斗加成（33）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_JAGUAR.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
@@ -8010,7 +8010,7 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_JAGUAR.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="森林/丛林战斗加成(33)">
+          <param name="Name" value="森林/丛林战斗加成（33）">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_MOHAWK.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
