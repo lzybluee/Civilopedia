@@ -4094,13 +4094,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="医疗二级">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_MEDIC_II.htm">
+                  <param name="Name" value="医疗能力">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_MEDIC.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="医疗能力">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_MEDIC.htm">
+                  <param name="Name" value="医疗二级">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_MEDIC_II.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
             </UL>
@@ -4314,11 +4314,6 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="不能进行近战攻击">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ONLY_DEFENSIVE.htm">
-                  <param name="ImageNumber" value="11">
-                </OBJECT>
-                <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="不能进入大洋">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_OCEAN_IMPASSABLE.htm">
                   <param name="ImageNumber" value="11">
@@ -4326,6 +4321,11 @@
                 <LI><OBJECT type="text/sitemap">
                   <param name="Name" value="不能进入森林或丛林">
                   <param name="Local" value="ZH\PROMOTION\PROMOTION_FOLIAGE_IMPASSABLE.htm">
+                  <param name="ImageNumber" value="11">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="不能进行近战攻击">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_ONLY_DEFENSIVE.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
@@ -4609,13 +4609,13 @@
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="可进行空降">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_PARADROP.htm">
+                  <param name="Name" value="可进入冰区">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_CAN_MOVE_IMPASSABLE.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">
-                  <param name="Name" value="可进入冰区">
-                  <param name="Local" value="ZH\PROMOTION\PROMOTION_CAN_MOVE_IMPASSABLE.htm">
+                  <param name="Name" value="可进行空降">
+                  <param name="Local" value="ZH\PROMOTION\PROMOTION_PARADROP.htm">
                   <param name="ImageNumber" value="11">
                 </OBJECT>
                 <LI><OBJECT type="text/sitemap">

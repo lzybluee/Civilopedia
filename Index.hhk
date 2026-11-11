@@ -306,20 +306,20 @@
           <param name="Local" value="EN\CIVILIZATION\CIVILIZATION_BYZANTIUM.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="宝藏船队">
-          <param name="Local" value="ZH\POLICY\POLICY_TREASURE_FLEETS.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Treasure Fleets">
-          <param name="Local" value="EN\POLICY\POLICY_TREASURE_FLEETS.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="宝石">
           <param name="Local" value="ZH\RESOURCE\RESOURCE_GEMS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Gems">
           <param name="Local" value="EN\RESOURCE\RESOURCE_GEMS.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="宝藏船队">
+          <param name="Local" value="ZH\POLICY\POLICY_TREASURE_FLEETS.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Treasure Fleets">
+          <param name="Local" value="EN\POLICY\POLICY_TREASURE_FLEETS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="堡垒">
@@ -514,20 +514,20 @@
           <param name="Local" value="EN\BUILDING\BUILDING_MUSEUM.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="捕猎">
-          <param name="Local" value="ZH\TECH\TECH_TRAPPING.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Trapping">
-          <param name="Local" value="EN\TECH\TECH_TRAPPING.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="哺育世界">
           <param name="Local" value="ZH\RELIGION\BELIEF_FEED_WORLD.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Feed the World">
           <param name="Local" value="EN\RELIGION\BELIEF_FEED_WORLD.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="捕猎">
+          <param name="Local" value="ZH\TECH\TECH_TRAPPING.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Trapping">
+          <param name="Local" value="EN\TECH\TECH_TRAPPING.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="不可见(潜艇)">
@@ -792,6 +792,54 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Generating Great People">
           <param name="Local" value="EN\CONCEPT\CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GENERATING.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="长城">
+          <param name="Local" value="ZH\WONDER\BUILDING_GREAT_WALL.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Great Wall">
+          <param name="Local" value="EN\WONDER\BUILDING_GREAT_WALL.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="长弓手">
+          <param name="Local" value="ZH\UNIT\UNIT_ENGLISH_LONGBOWMAN.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Longbowman">
+          <param name="Local" value="EN\UNIT\UNIT_ENGLISH_LONGBOWMAN.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="长剑士">
+          <param name="Local" value="ZH\UNIT\UNIT_LONGSWORDSMAN.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Longswordsman">
+          <param name="Local" value="EN\UNIT\UNIT_LONGSWORDSMAN.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="长枪兵">
+          <param name="Local" value="ZH\UNIT\UNIT_PIKEMAN.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Pikeman">
+          <param name="Local" value="EN\UNIT\UNIT_PIKEMAN.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="长途行军">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_MARCH.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="March">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_MARCH.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="长屋">
+          <param name="Local" value="ZH\BUILDING\BUILDING_LONGHOUSE.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Longhouse">
+          <param name="Local" value="EN\BUILDING\BUILDING_LONGHOUSE.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="朝圣制度">
@@ -1282,14 +1330,6 @@
           <param name="Local" value="EN\WONDER\BUILDING_BIG_BEN.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="大地母亲">
-          <param name="Local" value="ZH\RELIGION\BELIEF_EARTH_MOTHER.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Earth Mother">
-          <param name="Local" value="EN\RELIGION\BELIEF_EARTH_MOTHER.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="大灯塔">
           <param name="Local" value="ZH\WONDER\BUILDING_GREAT_LIGHTHOUSE.htm">
         </OBJECT>
@@ -1304,6 +1344,14 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Great Lighthouse">
           <param name="Local" value="EN\PROMOTION\PROMOTION_GREAT_LIGHTHOUSE.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="大地母亲">
+          <param name="Local" value="ZH\RELIGION\BELIEF_EARTH_MOTHER.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Earth Mother">
+          <param name="Local" value="EN\RELIGION\BELIEF_EARTH_MOTHER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="大方阵">
@@ -1794,6 +1842,30 @@
           <param name="Local" value="EN\UNIT\UNIT_GERMAN_PANZER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="灯塔">
+          <param name="Local" value="ZH\BUILDING\BUILDING_LIGHTHOUSE.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Lighthouse">
+          <param name="Local" value="EN\BUILDING\BUILDING_LIGHTHOUSE.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="狄多">
+          <param name="Local" value="ZH\CIVILIZATION\LEADER_DIDO.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Dido">
+          <param name="Local" value="EN\CIVILIZATION\LEADER_DIDO.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="敌方的宣战">
+          <param name="Local" value="ZH\CONCEPT\CONCEPT_COMBAT_DECLARE_WAR_RECEIVED.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="An Enemy Declaration of War">
+          <param name="Local" value="EN\CONCEPT\CONCEPT_COMBAT_DECLARE_WAR_RECEIVED.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="地貌">
           <param name="Local" value="ZH\CONCEPT\CONCEPT_TERRAIN_FEATURES.htm">
         </OBJECT>
@@ -1888,30 +1960,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Improvements Home Page">
           <param name="Local" value="EN\IMPROVEMENT\IMPROVEMENT_HOME.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="灯塔">
-          <param name="Local" value="ZH\BUILDING\BUILDING_LIGHTHOUSE.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Lighthouse">
-          <param name="Local" value="EN\BUILDING\BUILDING_LIGHTHOUSE.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="狄多">
-          <param name="Local" value="ZH\CIVILIZATION\LEADER_DIDO.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Dido">
-          <param name="Local" value="EN\CIVILIZATION\LEADER_DIDO.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="敌方的宣战">
-          <param name="Local" value="ZH\CONCEPT\CONCEPT_COMBAT_DECLARE_WAR_RECEIVED.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="An Enemy Declaration of War">
-          <param name="Local" value="EN\CONCEPT\CONCEPT_COMBAT_DECLARE_WAR_RECEIVED.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="第三选择">
@@ -2066,6 +2114,22 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_MOVEMENT_STACKING_LIMITS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="对城市加成(33)">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Bonus vs Cities (33)">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="对城市加成(50)">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_HEAVY_PAYLOAD.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Bonus vs Cities (50)">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_HEAVY_PAYLOAD.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="对城市加成(200)">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_CITY_SIEGE.htm">
         </OBJECT>
@@ -2088,22 +2152,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bonus vs Cities (300)">
           <param name="Local" value="EN\PROMOTION\PROMOTION_CITY_ASSAULT.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对城市加成(33)">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Bonus vs Cities (33)">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_FIRE_SUPPORT.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对城市加成(50)">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_HEAVY_PAYLOAD.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Bonus vs Cities (50)">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_HEAVY_PAYLOAD.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="对城市进行近战攻击">
@@ -2154,14 +2202,6 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_AIR_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对骑乘单位加成(100)">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_MOUNTED_II.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Bonus vs Mounted (100)">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_MOUNTED_II.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="对骑乘单位加成(33)">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_MOUNTED_PENALTY.htm">
         </OBJECT>
@@ -2178,12 +2218,12 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_MOUNTED_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对潜艇加成(100)">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
+          <param name="Name" value="对骑乘单位加成(100)">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_MOUNTED_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Bonus vs Submarines (100)">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
+          <param name="Name" value="Bonus vs Mounted (100)">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_MOUNTED_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="对潜艇加成(33)">
@@ -2192,6 +2232,14 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bonus vs Submarines (33)">
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_I.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="对潜艇加成(100)">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Bonus vs Submarines (100)">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_SUBMARINE_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="对受伤单位加成(33)">
@@ -2594,38 +2642,6 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_GOLD_TRADE_ROUTES_BLOCKADE.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="伏击二级">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_AMBUSH_2.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Air Ambush II">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_AIR_AMBUSH_2.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="伏击二级">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_AMBUSH_2.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Ambush II">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_AMBUSH_2.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="伏击一级">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_AMBUSH_1.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Air Ambush I">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_AIR_AMBUSH_1.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="伏击一级">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_AMBUSH_1.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Ambush I">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_AMBUSH_1.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="佛教">
           <param name="Local" value="ZH\RELIGION\RELIGION_BUDDHISM.htm">
         </OBJECT>
@@ -2658,12 +2674,52 @@
           <param name="Local" value="EN\BUILDING\BUILDING_PAGODA.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="伏击二级">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_AMBUSH_2.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Air Ambush II">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_AIR_AMBUSH_2.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="伏击二级">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_AMBUSH_2.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Ambush II">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_AMBUSH_2.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="伏击一级">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_AIR_AMBUSH_1.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Air Ambush I">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_AIR_AMBUSH_1.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="伏击一级">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_AMBUSH_1.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Ambush I">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_AMBUSH_1.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="俘虏船只">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_PRIZE_SHIPS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Prize Ships">
           <param name="Local" value="EN\PROMOTION\PROMOTION_PRIZE_SHIPS.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="福音神学">
+          <param name="Local" value="ZH\RELIGION\BELIEF_EVANGELISM.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Evangelism">
+          <param name="Local" value="EN\RELIGION\BELIEF_EVANGELISM.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="辐射">
@@ -2680,14 +2736,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Fallout">
           <param name="Local" value="EN\TERRAIN\FEATURE_FALLOUT.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="福音神学">
-          <param name="Local" value="ZH\RELIGION\BELIEF_EVANGELISM.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Evangelism">
-          <param name="Local" value="EN\RELIGION\BELIEF_EVANGELISM.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="斧兵">
@@ -3298,20 +3346,20 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="规避能力(100)">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_EVASION_II.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Evasion (100)">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION_II.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="规避能力(50)">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_EVASION_I.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Evasion (50)">
           <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION_I.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="规避能力(100)">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_EVASION_II.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Evasion (100)">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_EVASION_II.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="贵族政治">
@@ -3762,6 +3810,14 @@
           <param name="Local" value="EN\POLICY\POLICY_SPACEFLIGHT_PIONEERS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="行会">
+          <param name="Local" value="ZH\TECH\TECH_GUILDS.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Guilds">
+          <param name="Local" value="EN\TECH\TECH_GUILDS.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="耗尽金钱">
           <param name="Local" value="ZH\CONCEPT\CONCEPT_GOLD_RUNNING_DEFICIT.htm">
         </OBJECT>
@@ -3850,14 +3906,6 @@
           <param name="Local" value="EN\CITY_STATE\MINOR_CIV_HANOI.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="荷兰">
-          <param name="Local" value="ZH\CIVILIZATION\CIVILIZATION_NETHERLANDS.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="The Netherlands">
-          <param name="Local" value="EN\CIVILIZATION\CIVILIZATION_NETHERLANDS.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="核不扩散">
           <param name="Local" value="ZH\RESOLUTION\RESOLUTION_NUCLEAR_NON_PROLIFERATION.htm">
         </OBJECT>
@@ -3920,6 +3968,14 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Nuclear Submarine">
           <param name="Local" value="EN\UNIT\UNIT_NUCLEAR_SUBMARINE.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="荷兰">
+          <param name="Local" value="ZH\CIVILIZATION\CIVILIZATION_NETHERLANDS.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="The Netherlands">
+          <param name="Local" value="EN\CIVILIZATION\CIVILIZATION_NETHERLANDS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="轰炸二级">
@@ -4954,6 +5010,30 @@
           <param name="Local" value="EN\BUILDING\BUILDING_MAYA_PYRAMID.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="近代骑兵">
+          <param name="Local" value="ZH\UNIT\UNIT_CAVALRY.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Cavalry">
+          <param name="Local" value="EN\UNIT\UNIT_CAVALRY.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="近战">
+          <param name="Local" value="ZH\CONCEPT\CONCEPT_COMBAT_MELEE_COMBAT.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Melee Combat">
+          <param name="Local" value="EN\CONCEPT\CONCEPT_COMBAT_MELEE_COMBAT.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="近战结果">
+          <param name="Local" value="ZH\CONCEPT\CONCEPT_COMBAT_MELEE_RESULTS.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Melee Combat Results">
+          <param name="Local" value="EN\CONCEPT\CONCEPT_COMBAT_MELEE_RESULTS.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="进攻惩罚">
           <param name="Local" value="ZH\CONCEPT\CONCEPT_TERRAIN_RIVERS_COMBAT.htm">
         </OBJECT>
@@ -4992,30 +5072,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Entering a Civilization's Territory">
           <param name="Local" value="EN\CONCEPT\CONCEPT_COMBAT_DECLARE_WAR_ENTER_TERRITORY.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="近代骑兵">
-          <param name="Local" value="ZH\UNIT\UNIT_CAVALRY.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Cavalry">
-          <param name="Local" value="EN\UNIT\UNIT_CAVALRY.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="近战">
-          <param name="Local" value="ZH\CONCEPT\CONCEPT_COMBAT_MELEE_COMBAT.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Melee Combat">
-          <param name="Local" value="EN\CONCEPT\CONCEPT_COMBAT_MELEE_COMBAT.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="近战结果">
-          <param name="Local" value="ZH\CONCEPT\CONCEPT_COMBAT_MELEE_RESULTS.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Melee Combat Results">
-          <param name="Local" value="EN\CONCEPT\CONCEPT_COMBAT_MELEE_RESULTS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="晋升列表">
@@ -5210,20 +5266,20 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_FOREIGN_LANDS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="就地征召">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_RECRUITMENT.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Recruitment">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_RECRUITMENT.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="就敌之刃">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_ENEMY_BLADE.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Enemy Blade">
           <param name="Local" value="EN\PROMOTION\PROMOTION_ENEMY_BLADE.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="就地征召">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_RECRUITMENT.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Recruitment">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_RECRUITMENT.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="巨石阵">
@@ -5962,14 +6018,6 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_2.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="拦截能力(100)">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_IV.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Interception (100)">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_IV.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="拦截能力(20)">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_I.htm">
         </OBJECT>
@@ -5992,6 +6040,14 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Interception (50)">
           <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_III.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="拦截能力(100)">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_INTERCEPTION_IV.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Interception (100)">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_INTERCEPTION_IV.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="拦截三级">
@@ -8266,14 +8322,6 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_CITY_STATE_INFLUENCE_DO_NOTHING.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="什一税">
-          <param name="Local" value="ZH\RELIGION\BELIEF_TITHE.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Tithe">
-          <param name="Local" value="EN\RELIGION\BELIEF_TITHE.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="神祠">
           <param name="Local" value="ZH\BUILDING\BUILDING_SHRINE.htm">
         </OBJECT>
@@ -8560,6 +8608,14 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Losing your Last City">
           <param name="Local" value="EN\CONCEPT\CONCEPT_VICTORY_DEFEAT_LOSING_LAST_CITY.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="什一税">
+          <param name="Local" value="ZH\RELIGION\BELIEF_TITHE.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Tithe">
+          <param name="Local" value="EN\RELIGION\BELIEF_TITHE.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="石工坊">
@@ -8858,20 +8914,20 @@
           <param name="Local" value="EN\TERRAIN\FEATURE_SOLOMONS_MINES.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="所有地形耗费1移动力">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_FLAT_MOVEMENT_COST.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="All Tiles Cost 1 Move">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_FLAT_MOVEMENT_COST.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="所有的导弹">
           <param name="Local" value="ZH\CONCEPT\CONCEPT_AIR_POWER_BASES_MISSILES.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="All Missiles">
           <param name="Local" value="EN\CONCEPT\CONCEPT_AIR_POWER_BASES_MISSILES.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="所有地形耗费1移动力">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_FLAT_MOVEMENT_COST.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="All Tiles Cost 1 Move">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_FLAT_MOVEMENT_COST.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="索非亚">
@@ -8896,22 +8952,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Antananarivo">
           <param name="Local" value="EN\CITY_STATE\MINOR_CIV_ANTANANARIVO.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="拓展领土">
-          <param name="Local" value="ZH\CONCEPT\CONCEPT_CULTURE_EXPANDING_TERRITORY.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Expanding Territory">
-          <param name="Local" value="EN\CONCEPT\CONCEPT_CULTURE_EXPANDING_TERRITORY.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="拓展贸易事业">
-          <param name="Local" value="ZH\CONCEPT\CONCEPT_GOLD_TRADE_MISSION.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Perform a &quot;Trade Mission&quot;">
-          <param name="Local" value="EN\CONCEPT\CONCEPT_GOLD_TRADE_MISSION.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="太空船工厂">
@@ -9456,6 +9496,22 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Annexing the City">
           <param name="Local" value="EN\CONCEPT\CONCEPT_CITY_ANNEX.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="拓展领土">
+          <param name="Local" value="ZH\CONCEPT\CONCEPT_CULTURE_EXPANDING_TERRITORY.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Expanding Territory">
+          <param name="Local" value="EN\CONCEPT\CONCEPT_CULTURE_EXPANDING_TERRITORY.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="拓展贸易事业">
+          <param name="Local" value="ZH\CONCEPT\CONCEPT_GOLD_TRADE_MISSION.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Perform a &quot;Trade Mission&quot;">
+          <param name="Local" value="EN\CONCEPT\CONCEPT_GOLD_TRADE_MISSION.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="瓦莱塔">
@@ -10304,14 +10360,6 @@
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Guruship">
           <param name="Local" value="EN\RELIGION\BELIEF_GURUSHIP.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="行会">
-          <param name="Local" value="ZH\TECH\TECH_GUILDS.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Guilds">
-          <param name="Local" value="EN\TECH\TECH_GUILDS.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="幸存者">
@@ -11650,54 +11698,6 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_TRADE_WAR.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="长城">
-          <param name="Local" value="ZH\WONDER\BUILDING_GREAT_WALL.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Great Wall">
-          <param name="Local" value="EN\WONDER\BUILDING_GREAT_WALL.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="长弓手">
-          <param name="Local" value="ZH\UNIT\UNIT_ENGLISH_LONGBOWMAN.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Longbowman">
-          <param name="Local" value="EN\UNIT\UNIT_ENGLISH_LONGBOWMAN.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="长剑士">
-          <param name="Local" value="ZH\UNIT\UNIT_LONGSWORDSMAN.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Longswordsman">
-          <param name="Local" value="EN\UNIT\UNIT_LONGSWORDSMAN.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="长枪兵">
-          <param name="Local" value="ZH\UNIT\UNIT_PIKEMAN.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Pikeman">
-          <param name="Local" value="EN\UNIT\UNIT_PIKEMAN.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="长途行军">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_MARCH.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="March">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_MARCH.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="长屋">
-          <param name="Local" value="ZH\BUILDING\BUILDING_LONGHOUSE.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Longhouse">
-          <param name="Local" value="EN\BUILDING\BUILDING_LONGHOUSE.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="沼泽">
           <param name="Local" value="ZH\CONCEPT\CONCEPT_TERRAIN_FEATURE_MARSH.htm">
         </OBJECT>
@@ -11922,20 +11922,20 @@
           <param name="Local" value="EN\CONCEPT\CONCEPT_ESPIONAGE_POLICE_STATION.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="致冷">
-          <param name="Local" value="ZH\TECH\TECH_REFRIGERATION.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Refrigeration">
-          <param name="Local" value="EN\TECH\TECH_REFRIGERATION.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="秩序政策">
           <param name="Local" value="ZH\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_ORDER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Order">
           <param name="Local" value="EN\CONCEPT\CONCEPT_SOCIAL_POLICY_BRANCH_ORDER.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="致冷">
+          <param name="Local" value="ZH\TECH\TECH_REFRIGERATION.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Refrigeration">
+          <param name="Local" value="EN\TECH\TECH_REFRIGERATION.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="掷矛兵">
