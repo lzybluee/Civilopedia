@@ -254,6 +254,7 @@ a.langswitch:hover
 /* Large block of content */
 .contentwide
 {
+	*padding-bottom: 10px; /* IE7 (CHM) drops last child margin-bottom in floats */
 	float: right;
 	width: 677px;
 	margin-right: 42px;
@@ -262,6 +263,7 @@ a.langswitch:hover
 /* Left side of content */
 .contentleft
 {
+	*padding-bottom: 10px; /* IE7 (CHM) drops last child margin-bottom in floats */
 	float: left;
 	width: 220px;
 	margin-top: 256px;
@@ -271,6 +273,7 @@ a.langswitch:hover
 /* Right side of content */
 .contentright
 {
+	*padding-bottom: 10px; /* IE7 (CHM) drops last child margin-bottom in floats */
 	margin-top: 15px;
 	float: right;
 	width: 439px;
