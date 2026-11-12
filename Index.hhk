@@ -2266,20 +2266,20 @@
           <param name="Local" value="EN\PROMOTION\PROMOTION_ANTI_HELICOPTER.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="对装甲单位加成（25）一级">
-          <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
-          <param name="Name" value="Bonus vs Armored (25) I">
-          <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
-        </OBJECT>
-        <LI><OBJECT type="text/sitemap">
           <param name="Name" value="对装甲单位加成（25）二级">
           <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="Bonus vs Armored (25) II">
           <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_2.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="对装甲单位加成（25）一级">
+          <param name="Local" value="ZH\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Bonus vs Armored (25) I">
+          <param name="Local" value="EN\PROMOTION\PROMOTION_HELI_AMBUSH_1.htm">
         </OBJECT>
         <LI><OBJECT type="text/sitemap">
           <param name="Name" value="多管机枪">
